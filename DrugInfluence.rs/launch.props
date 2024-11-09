@@ -1,0 +1,6 @@
+#
+#Sat Nov 09 13:20:03 IST 2024
+incoming=tcp\://127.0.0.1\:5555
+outgoing=tcp\://127.0.0.1\:5556
+scenario=..\\DrugInfluence.rs
+working.directory=../
